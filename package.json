@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
   },
   "repository": {
     "type": "module",
     "url": "git+https://github.com/gendzmin/hexlet-js.git"
   },
-  "author": "",
+  "author": "gendzmin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gendzmin/hexlet-js/issues"
@@ -18,5 +20,6 @@
   "homepage": "https://github.com/gendzmin/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "keywords": []
 }
