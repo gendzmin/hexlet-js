@@ -5,11 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "type": "module"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "module",
     "url": "git+https://github.com/gendzmin/hexlet-js.git"
   },
   "author": "gendzmin",
@@ -21,5 +19,6 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {}
 }
